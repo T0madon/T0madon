@@ -25,7 +25,8 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-  //https://dev.to/envoy_/150-badges-for-github-pnk
+  <!-- LINK para icons = https://dev.to/envoy_/150-badges-for-github-pnk -->
+  
   
 </div><br/>
 
