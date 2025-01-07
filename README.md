@@ -31,6 +31,7 @@
   
 
   <!-- LINK para icons = https://dev.to/envoy_/150-badges-for-github-pnk -->
+  <!-- outro link = https://icons8.com/icons/set/react -->
   
   
 </div><br/>
