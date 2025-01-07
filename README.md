@@ -10,20 +10,25 @@
 ## Technologies
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
+  <img align="center" alt="css" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
+  <img align="center" alt="javascript" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
+  <img align="center" alt="c" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
+  <img align="center" alt="java" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
+  <img align="center" alt="python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
+  <img align="center" alt="nodejs" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
+  <img align="center" alt="saas" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" />
+  <img align="center" alt="r" src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" />
   <img align="center" alt="react" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center" alt="bootstrap" src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" />
+  <img align="center" alt="mysql" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" />
+  <img align="center" alt="postgresql" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" />
+  <img align="center" alt="mongodb" src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" />
+  <img align="center" alt="jupyter" src="https://img.icons8.com/?size=100&id=0JUBXbNc9AaZ&format=png&color=000000" />
+  <img align="center" alt="pandas" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" />
+  <img align="center" alt="numpy" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" />
+  <img align="center" alt="django" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" />
+  
 
   <!-- LINK para icons = https://dev.to/envoy_/150-badges-for-github-pnk -->
   
