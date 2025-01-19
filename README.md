@@ -28,6 +28,7 @@
   <img align="center" alt="pandas" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" />
   <img align="center" alt="numpy" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" />
   <img align="center" alt="django" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" />
+  <img align="center" alt="selenium" src="https://img.icons8.com/?size=100&id=24536&format=png&color=000000" />
   
 
   <!-- LINK para icons = https://dev.to/envoy_/150-badges-for-github-pnk -->
