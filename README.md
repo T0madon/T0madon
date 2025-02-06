@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4b9ac4f6-a63b-4b1b-a58b-fc749f26d3e5)### Olá ! Eu sou o João Vitor Tomadon Daciuk 👋
+### Olá ! Eu sou o João Vitor Tomadon Daciuk 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_tomadon/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-tomadon-daciuk-617a1a279/)
